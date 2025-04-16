@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Suspicious Words</title>
+    <style>
+        body { font-family: Arial, sans-serif; width: 250px; padding: 10px; }
+        input, button { margin: 5px 0; width: 100%; }
+        ul { list-style: none; padding: 0; }
+        li { display: flex; justify-content: space-between; margin: 5px 0; }
+        .remove-btn { color: red; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h3>Suspicious Words</h3>
+    <input type="text" id="wordInput" placeholder="Enter word">
+    <button id="addWord">Add Word</button>
+    <ul id="wordList"></ul>
+    <script src="popup.js"></script>
+</body>
+</html>
