@@ -2,8 +2,6 @@
 
 A lightweight Chrome Extension that scans the **subject titles of emails in Gmail** for suspicious keywords defined by you. If a keyword is detected in an email title, the extension will **highlight the email in red** and **display an alert message**, helping you stay vigilant against phishing and suspicious emails.
 
----
-
 ## Features
 
 - Automatically scans Gmail inbox for suspicious keywords.
@@ -11,8 +9,6 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 - Shows the matched keyword next to the email title.
 - Customizable keyword list – add or remove suspicious words easily.
 - Real-time updates – alerts refresh automatically when keywords are changed.
-
----
 
 ## How It Works
 
@@ -23,8 +19,6 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
    - A red alert (`🔴 Suspicious: "word"`) is appended next to the subject.
 4. You can manage the suspicious words using the simple interface popup.
 
----
-
 ## Installation Guide
 
 1. Clone or download this repository.
@@ -33,13 +27,9 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 4. Click **"Load unpacked"** and select the folder where you saved the extension.
 5. Open Gmail and wait a few seconds – suspicious emails will be marked automatically!
 
----
-
 ## Screenshots
 
 ![Screenshot](./screen-shot.png)
-
----
 
 ## Usage
 
@@ -48,8 +38,6 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 - The keyword will be stored locally.
 - Emails containing the keyword in the subject will be marked.
 - To remove a keyword, click the ❌ icon next to it in the list.
-
----
 
 ## Technologies Used
 
