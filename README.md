@@ -58,20 +58,14 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 - **DOM Manipulation**
 - **Chrome Local Storage**
 
----
-
 ## Contributing
 
 Feel free to submit pull requests or open issues for feature requests and bug reports!
-
----
 
 ## License
 
 License
 MIT License
-
----
 
 🐼 Stay with Panda!
 
