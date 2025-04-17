@@ -4,17 +4,17 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 
 ---
 
-## 🔍 Features
+## Features
 
-- ✅ Automatically scans Gmail inbox for suspicious keywords.
-- ✅ Highlights suspicious emails by changing color and bolding the title.
-- ✅ Shows the matched keyword next to the email title.
-- ✅ Customizable keyword list – add or remove suspicious words easily.
-- ✅ Real-time updates – alerts refresh automatically when keywords are changed.
+- Automatically scans Gmail inbox for suspicious keywords.
+- Highlights suspicious emails by changing color and bolding the title.
+- Shows the matched keyword next to the email title.
+- Customizable keyword list – add or remove suspicious words easily.
+- Real-time updates – alerts refresh automatically when keywords are changed.
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 1. The extension reads the subject line (title) of each visible email in Gmail.
 2. It compares them to a list of **user-defined suspicious words** stored in Chrome's local storage.
@@ -25,7 +25,7 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
 1. Clone or download this repository.
 2. Open Chrome and go to `chrome://extensions/`.
@@ -35,13 +35,13 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Screenshot](./screen-shot.png)
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 - Click the extension icon in your Chrome toolbar.
 - Enter a keyword (e.g., "urgent", "invoice", "password") and click **Add**.
@@ -51,7 +51,7 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **JavaScript (Vanilla)**
 - **Chrome Extension APIs**
@@ -60,5 +60,18 @@ A lightweight Chrome Extension that scans the **subject titles of emails in Gmai
 
 ---
 
-## 📂 File Structure
+## Contributing
+
+Feel free to submit pull requests or open issues for feature requests and bug reports!
+
+---
+
+## License
+
+License
+MIT License
+
+---
+
+🐼 Stay with Panda!
 
